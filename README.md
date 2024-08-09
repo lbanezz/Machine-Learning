@@ -6,6 +6,6 @@
 <li>Matplotlib</li>
 <li>Scikit-learn</li>
 <li>Pandas</li>
-<li>sklearn</li>
+<li>Sklearn</li>
 
 <img src="./assets/projeto.png"/>
